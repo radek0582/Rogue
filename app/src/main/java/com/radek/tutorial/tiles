@@ -1,0 +1,6 @@
+tiles:
+1 - floor
+2 - bridge
+
+tilesMonster:
+1 - rat
